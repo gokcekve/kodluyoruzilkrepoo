@@ -6,7 +6,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) eğitiminde oluşturduğum ilk 
 
 ## Installation
 
-Öncelikle projeyi klonlayın
+Öncelikle projeyi klonlayın:
+
 `https://github.com/gokcekve/kodluyoruzilkrepoo.git`
 
 ## Usage
